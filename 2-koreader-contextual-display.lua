@@ -1,8 +1,8 @@
--- ProjectTitle: Contextual Display Mode (Home vs Subfolders)
+-- Koreader: Contextual Display Mode (Home vs Subfolders)
 -- Adds menu options to set a different display mode for the home folder and subfolders.
 -- The mode switches automatically when navigating between home and subfolders.
 -- Settings are persistent via G_reader_settings under the "pt_contextual_display" key.
---
+--compatible with koreader vanilla and projecttitle plugin
 -- Injected at the top of the ProjectTitle display-mode menu:
 --   [✓] Use different mode for Home and subfolders
 --       Home folder mode ▶  (enabled when above is checked)
